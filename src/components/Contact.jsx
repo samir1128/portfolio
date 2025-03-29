@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
   return (
-    <section id="contact" className="py-10 px-6 bg-[#112240] bg-opacity-70 w-full">
+    <section id="contact" className="py-8 px-6 bg-[#112240] bg-opacity-70 w-full">
       <div className="container mx-auto max-w-3xl">
         <h2 className="text-3xl font-bold mb-6 gradient-text text-center">Get In Touch</h2>
         <p className="text-gray-300 mb-12 text-center max-w-xl mx-auto leading-relaxed">

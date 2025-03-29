@@ -2,7 +2,7 @@ import React from 'react'
 
 function Projects({ projects }) {
   return (
-    <section id="projects" className="pt-8 px-6 bg-[#112240] bg-opacity-60 w-full">
+    <section id="projects" className="pt-8 pb-28 px-6 bg-[#112240] bg-opacity-60 w-full">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold mb-16 gradient-text text-center">Featured Projects</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

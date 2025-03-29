@@ -2,7 +2,7 @@ import React from 'react'
 
 function Skills({ skills }) {
   return (
-    <section id="skills" className="pt-8 pb-10 px-6 bg-gradient-to-b from-[#0a192f] to-[#112240] w-full">
+    <section id="skills" className="pt-8 pb-14 px-6 bg-gradient-to-b from-[#0a192f] to-[#112240] w-full">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold mb-16 gradient-text text-center">Skills & Technologies</h2>
         <div className="grid md:grid-cols-3 gap-10 max-w-5xl mx-auto">

@@ -4,7 +4,7 @@ import aboutImage from '../assets/about.jpg';
 
 function About() {
   return (
-    <section id="about" className="py-20 px-6 bg-gradient-to-b from-[#0a192f] to-[#112240]/70 w-full">
+    <section id="about" className="pt-20 pb-28 px-6 bg-gradient-to-b from-[#0a192f] to-[#112240]/70 w-full">
       <div className="container mx-auto max-w-5xl">
         <h2 className="text-3xl font-bold mb-16 gradient-text text-center md:text-left">About Me</h2>
         <div className="grid md:grid-cols-2 gap-16 items-center">
@@ -40,3 +40,5 @@ function About() {
 }
 
 export default About
+
+
